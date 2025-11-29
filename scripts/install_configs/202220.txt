@@ -1,5 +1,5 @@
-#### Vivado ML Standard Install Configuration ####
-Edition=Vivado ML Standard
+#### Vivado ML Enterprise Install Configuration ####
+Edition=Vivado ML Enterprise
 
 Product=Vivado
 
